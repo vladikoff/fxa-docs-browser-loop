@@ -24,6 +24,10 @@ FxA OAuth Browser Docs
 * [FxA Loop UX Chart](charts/fxaoauthflow.png)
 * FxA OAuth Client Web Channel (TODO)
 
+### GIFs
+
+See the [gifs](gifs) directory for demos
+
 ## Server API Instructions
 
 The service server needs to be configured as an FxA OAuth Client.
