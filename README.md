@@ -22,7 +22,7 @@ FxA OAuth Browser Docs
 
 * [FxA Loop Browser Login UX](charts/fxaloopux.png)
 * [FxA Loop UX Chart](charts/fxaoauthflow.png)
-* FxA OAuth Client Web Channel (TODO)
+* [DRAFT: FxA OAuth Client Web Channel](fxawebchannelflow.png)
 
 ### GIFs
 
