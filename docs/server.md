@@ -35,7 +35,6 @@ HTTP/1.1 200 OK
     "content_uri": "http://127.0.0.1:3030",
     "oauth_uri": "http://127.0.0.1:9010/v1",
     "profile_uri": "http://127.0.0.1:1111/v1",
-    "redirect_uri": "http://localhost:5000/fxa-oauth/redirect",
     "scope": "profile",
     "state": "2d37b565fc349d633e57291cf03ac69180f5541bbf06d9de78e373ed43fb62cf"
 }
