@@ -35,4 +35,4 @@ See the [gifs](gifs) directory for demos
 
 ## Other links
 
-* [WebChannel documentation](https://developer.mozilla.org/en-US/docs/Mozilla/JavaScript_code_modules/WebChannel.jsm)
+* [WebChannel.jsm documentation](https://developer.mozilla.org/en-US/docs/Mozilla/JavaScript_code_modules/WebChannel.jsm)
