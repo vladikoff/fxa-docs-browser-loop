@@ -5,6 +5,9 @@ FxA OAuth Browser Docs
 
 * Dev Loop Server with patches applied: http://loop.dev.lcip.org/
 * Patched Firefox Accounts Dev Stack: https://vlad.dev.lcip.org/signup
+* FxA OAuth 123Done Example: https://github.com/mozilla/123done/tree/oauth
+  * Live Example: https://123done-latest.dev.lcip.org/  
+  * Server Endpoints: https://github.com/mozilla/123done/blob/oauth/oauth.js 
 
 ## Loop
 
