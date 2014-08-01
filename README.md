@@ -19,7 +19,7 @@ FxA OAuth Browser Docs
   * `Add-FxA-OAuth-to-Loop.patch` - proof of concept implementation
 * Loop Panel: https://bugzilla.mozilla.org/show_bug.cgi?id=1022064
 * Loop Server: https://github.com/mozilla-services/loop-server/pull/98
-* FxA Content Server Patch: https://github.com/mozilla/fxa-content-server/pull/1368
+* FxA Content Server Patch: ~~https://github.com/mozilla/fxa-content-server/pull/1368~~ https://github.com/mozilla/fxa-content-server/pull/1495
 
 ### Charts
 
