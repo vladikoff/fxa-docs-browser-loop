@@ -65,7 +65,7 @@ Notes:
 * `scope` and `action` are optional.
 * Set `state` in the server session.
 
-#### POST /fxa-oauth/code
+#### POST /fxa-oauth/token
 
 Parameters: `code`, `state`
 
