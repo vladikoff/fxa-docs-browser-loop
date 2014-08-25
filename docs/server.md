@@ -96,6 +96,6 @@ Response Example:
 {
   token_type: body.token_type,
   access_token: body.access_token,
-  scopes: body.scopes
+  scope: body.scope
 };
 ```
