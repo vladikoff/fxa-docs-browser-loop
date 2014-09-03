@@ -1,6 +1,8 @@
 FxA OAuth Browser Docs
 =====================
 
+Also see https://developer.mozilla.org/en-US/Firefox_Accounts
+
 ## FxA Servers
 
 * Dev Loop Server with patches applied: http://loop.dev.lcip.org/
